@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Garage Door Controller</string>
+    <string name="toggle_door_button">Open/Close Door</string>
+</resources>
