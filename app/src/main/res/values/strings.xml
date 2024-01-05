@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Garage Door Controller</string>
     <string name="toggle_door_button">Open/Close Door</string>
+    <string name="no_connection">NO CONNECTION</string>
+    <string name="connection_lost">CONNECTION LOST</string>
 </resources>
